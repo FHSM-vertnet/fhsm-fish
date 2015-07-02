@@ -1,0 +1,78 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 191
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-24 ; Times: 6
+	Date: 2015-06-29 ; Times: 9
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "12956" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "kansas harvey" ; Times: 1
+	Query: "catenatus missouri" ; Times: 3
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "gage county nebraska" ; Times: 4
+	Query: "catalognumber:14017" ; Times: 1
+	Query: ""Ictiobus bubalus"" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1524 download events in this period)
+Total number of records downloaded: 752 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 566
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "Illinois" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 31
+Total number of records retrieved from searches: 793
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 752
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 31
+Total number of records retrieved from searches: 793
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 752
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
