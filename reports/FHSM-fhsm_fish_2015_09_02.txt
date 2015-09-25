@@ -1,0 +1,79 @@
+Report for Institution Code FHSM, Resource FHSM-I
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 4
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-27 ; Times: 6
+	Date: 2015-08-28 ; Times: 9
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 15
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:tetranema genus:Macrhybopsis" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:placitus genus:Hybognathus" ; Times: 2
+	Query: "19463" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "type:specimen stateprovince:"Kansas" hastypestatus:1" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "Hybognathus hayi alabama" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1138 download events in this period)
+Total number of records downloaded: 13 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 30
+Total number of records retrieved from searches: 339
+Number of download events that retrieved data from the resource: 1
+Total number of records downloaded: 13
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 30
+Total number of records retrieved from searches: 339
+Number of download events that retrieved data from the resource: 1
+Total number of records downloaded: 13
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
