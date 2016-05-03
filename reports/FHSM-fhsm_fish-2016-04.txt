@@ -1,0 +1,84 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "24268" ; Times: 2
+	Query: "21952" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Macrhybopsis aestivalis" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "catalognumber:1994 collectioncode:fhsm institutioncode:FHSM" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1312 download events in this period)
+Total number of records downloaded: 8589
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Panama ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-22 ; Times: 13
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ichthyology" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "COTTIDAE" ; Times: 3
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+
+
+End of report.
