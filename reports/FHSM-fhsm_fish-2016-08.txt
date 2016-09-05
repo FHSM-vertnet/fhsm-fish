@@ -1,0 +1,89 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 13356
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 196
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-16 ; Times: 54
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-19 ; Times: 20
+	Date: 2016-08-26 ; Times: 22
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 94
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 5
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 47
+	Query: "scientificname:Perca flavescens country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 3
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 2
+	Query: "scientificname:Ameiurus natalis country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 18
+	Query: "scientificname:Ictalurus punctatus country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "scientificname:Micropterus punctulatus country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 2
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 5
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 4
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 10
+	Query: "scientificname:Ictalurus furcatus country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Morone chrysops country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Ameiurus melas country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Morone saxatilis country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 2
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 2
+	Query: "scientificname:Pomoxis nigromaculatus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis humilis country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 3
+	Query: "scientificname:Sander vitreus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 8
+	Query: "scientificname:Morone americana country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 924 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+
+
+End of report.
