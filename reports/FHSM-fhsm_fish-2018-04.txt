@@ -1,0 +1,94 @@
+Report for Institution Code FHSM, Resource fhsm_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 488
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 26
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-06 ; Times: 7
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 9
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "scientificname:(Etheostoma cragini) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "recordedby:ely year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "Notropis topeka mappable:1" ; Times: 12
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:nachtriebi genus:Margariscus" ; Times: 2
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "scientificname:(Margariscus nachtriebi) country:United States mappable:1" ; Times: 1
+	Query: "Fort hays state" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1359 download events in this period)
+Total number of records downloaded: 6415
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 13
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+
+
+End of report.
